@@ -1,6 +1,6 @@
 # Leaflet-challenge
 
-![([Starter_Code/Images/Logo.png](https://github.com/avani-16/Leaflet-challenge/blob/main/Starter_Code/Images/1-Logo.png)]
+![Alt text](Starter_Code/Images/1-Logo.png)
 
 The United States Geological Survey, or USGS for short, is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.
 
@@ -13,16 +13,16 @@ The instructions for this activity are broken into two parts:
 
 ## Part 1: Create the Earthquake Visualization
 
-![Starter_Code/Images/Part-1.png]
+![Alt text](Starter_Code/Images/Part-1.png)
 
 To visualize an earthquake dataset, completed the following steps:
  - The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the ![USGS GeoJSON Feed](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page and choose a dataset to visualize. The following image is an example screenshot of what appears when you visit this link:
 
-![Starter_Code/Images/Data.png]
+![Alt text](Starter_Code/Images/3-Data.png)
 
 - Click a dataset (such as "All Earthquakes from the Past 7 Days"), and JSON representation of that data will appear. Used the URL of this JSON to pull in the data for the visualization. The following image is a sampling of earthquake data in JSON format:
 
-![Starter_Code/Images/JSON.png]
+![Alt text](Starter_Code/Images/4-JSON.png)
 
 Imported and visualized the data by doing the following:
 
@@ -34,11 +34,11 @@ Imported and visualized the data by doing the following:
 
 ## Part 2: Gather and Plot More Data
 
-The second dataset on the map illustrated the relationship between tectonic plates and seismic activity. Data on tectonic plates can be found at ![https://github.com/fraxen/tectonicplates]..
+The second dataset on the map illustrated the relationship between tectonic plates and seismic activity. Data on tectonic plates can be found at <https://github.com/fraxen/tectonicplates>..
 
 The following image is an example screenshot of the map:
 
-![Starter_Code/Images/Part-2.png]
+![Alt text](Starter_Code/Images/Part-2.png)
 
 
 
