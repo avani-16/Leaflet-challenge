@@ -16,7 +16,7 @@ The instructions for this activity are broken into two parts:
 ![Alt text](Starter_Code/Images/Part-1.png)
 
 To visualize an earthquake dataset, completed the following steps:
- - The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the ![USGS GeoJSON Feed](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page and choose a dataset to visualize. The following image is an example screenshot of what appears when you visit this link:
+ - The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the [USGS GeoJSON Feed](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page and choose a dataset to visualize. The following image is an example screenshot of what appears when you visit this link:
 
 ![Alt text](Starter_Code/Images/3-Data.png)
 
